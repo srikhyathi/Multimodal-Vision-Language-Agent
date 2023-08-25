@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2023-08-25
-- Commit: 6/56
-- Module: refactor(core): harden module imports and export public interfaces
+- Commit: 7/56
+- Module: docs(architecture): document closed-loop multimodal agent design
