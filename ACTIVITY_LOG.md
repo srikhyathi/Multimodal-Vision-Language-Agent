@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-03-06
-- Commit: 9/25
-- Module: docs(api): publish OpenAPI specification for visual inspection gateway
+- Commit: 10/25
+- Module: refactor(utils): extract reusable image cropping and resizing helpers
