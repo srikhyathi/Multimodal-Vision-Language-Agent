@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-04-15
-- Commit: 6/67
-- Module: fix(parser): handle unescaped control characters in LLM markdown blocks
+- Commit: 7/67
+- Module: refactor(models): migrate legacy schemas to Pydantic v2 BaseModels
