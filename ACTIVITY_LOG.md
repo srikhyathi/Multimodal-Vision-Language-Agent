@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-05-09
-- Commit: 3/13
-- Architecture Module: refactor(service): streamline QA review decision payload validation
+- Commit: 4/13
+- Architecture Module: feat(vlm): optimize prompt token budget for layout anomaly analysis
