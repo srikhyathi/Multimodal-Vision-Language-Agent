@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-08-19
-- Commit: 17/68
-- Module: test(security): add test suite for malicious style injection vectors
+- Commit: 18/68
+- Module: refactor(gateway): decouple ASGI middleware from authentication context
