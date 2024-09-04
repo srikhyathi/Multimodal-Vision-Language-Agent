@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2024-09-04
-- Commit: 16/58
-- Module: test(policy): add unit test coverage for zero-trust security boundary
+- Commit: 17/58
+- Module: refactor(core): harden module imports and export public interfaces
