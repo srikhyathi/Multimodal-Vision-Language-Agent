@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-05-27
-- Commit: 42/77
-- Module: fix(validation): block absolute path traversal in CSS patcher
+- Commit: 43/77
+- Module: docs(guides): update local development and staging setup guides
