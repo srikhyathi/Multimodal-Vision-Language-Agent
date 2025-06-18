@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-06-18
-- Commit: 35/70
-- Module: test(telemetry): verify CSV compliance report formatting and headers
+- Commit: 36/70
+- Module: docs(milestones): document week 4 spatial optimization milestones
