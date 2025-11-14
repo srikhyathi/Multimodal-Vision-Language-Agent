@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2025-11-14
-- Commit: 16/68
-- Module: refactor(pipeline): optimize asynchronous CI build event dispatcher
+- Commit: 17/68
+- Module: test(runner): verify responsive full-page viewport capture
