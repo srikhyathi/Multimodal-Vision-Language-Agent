@@ -1,4 +1,4 @@
 # OmniSight Activity Log
-- Date: 2025-12-02
-- Commit: 66/66
-- Module: feat(telemetry): add Prometheus metrics exporter for token reduction
+- Date: 2025-12-03
+- Commit: 1/63
+- Module: fix(api): align run lifecycle state machine transitions
