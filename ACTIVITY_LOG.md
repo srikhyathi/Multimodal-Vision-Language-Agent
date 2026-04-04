@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-04-04
-- Commit: 211/232
-- Module: feat(alerts): add webhook notification dispatcher for critical visual regressions
+- Commit: 212/232
+- Module: test(unit): expand test coverage for bounding box expansion and clamp limits
