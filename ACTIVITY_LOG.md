@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-04-14
-- Commit: 14/127
-- Module: test(benchmark): profile token reduction ratios on mobile viewports
+- Commit: 15/127
+- Module: fix(validation): block absolute path traversal in CSS patcher
