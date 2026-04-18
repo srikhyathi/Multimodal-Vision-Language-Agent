@@ -1,4 +1,4 @@
 # OmniSight Activity Log
-- Date: 2026-04-17
-- Commit: 72/72
-- Architecture Module: fix(security): prevent path traversal and null byte injections in css patcher
+- Date: 2026-04-18
+- Commit: 1/14
+- Architecture Module: docs(contracts): update Pydantic v2 schemas for visual defect findings
