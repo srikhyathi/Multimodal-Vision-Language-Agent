@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-05-08
-- Commit: 254/257
-- Module: feat(analytics): add streaming CSV audit export endpoints
+- Commit: 255/257
+- Module: test(benchmark): profile token reduction ratios on mobile viewports
