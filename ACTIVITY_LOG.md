@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-05-09
-- Commit: 57/72
-- Architecture Module: refactor(models): migrate legacy schemas to Pydantic v2 BaseModels
+- Commit: 58/72
+- Architecture Module: feat(rollback): implement atomic rollback handling for bulk approval failures
