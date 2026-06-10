@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-06-10
-- Commit: 23/243
-- Module: feat(review): implement bulk approval batch processing for enterprise QA
+- Commit: 24/243
+- Module: perf(retest): parallelize Playwright screenshot comparisons across workers
