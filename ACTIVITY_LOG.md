@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-06-20
-- Commit: 7/259
-- Module: feat(rollback): implement atomic rollback handling for bulk approval failures
+- Commit: 8/259
+- Module: test(telemetry): verify CSV compliance report formatting and headers
