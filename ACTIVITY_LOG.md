@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-06-20
-- Commit: 6/64
-- Architecture Module: feat(cache): implement LRU manifest cache for multi-round audit runs
+- Commit: 7/64
+- Architecture Module: perf(vision): reduce perceptual hash comparison latency by 40%
