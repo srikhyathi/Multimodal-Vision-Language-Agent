@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-07-01
-- Commit: 31/264
-- Module: fix(dom): normalize cross-browser whitespace differences in element text
+- Commit: 32/264
+- Module: docs(api): publish OpenAPI specification for visual inspection gateway
