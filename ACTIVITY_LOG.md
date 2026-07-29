@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-07-29
-- Commit: 1/51
-- Architecture Module: feat(vlm): optimize prompt token budget for layout anomaly analysis
+- Commit: 2/51
+- Architecture Module: perf(optimizer): improve sub-viewport bounding box calculation latency
