@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-08-18
-- Commit: 254/274
-- Module: docs(security): publish threat model and vulnerability mitigation audit
+- Commit: 255/274
+- Module: refactor(service): streamline QA review decision payload validation
