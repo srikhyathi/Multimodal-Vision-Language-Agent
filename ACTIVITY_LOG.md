@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-08-29
-- Commit: 15/229
-- Module: test(optimizer): benchmark crop cache hit rates and sub-millisecond retrieval
+- Commit: 16/229
+- Module: feat(telemetry): export token savings ratios and approval latency gauges
