@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-09-09
-- Commit: 19/234
-- Module: refactor(utils): extract reusable image cropping and resizing helpers
+- Commit: 20/234
+- Module: feat(alerts): add webhook notification dispatcher for critical visual regressions
