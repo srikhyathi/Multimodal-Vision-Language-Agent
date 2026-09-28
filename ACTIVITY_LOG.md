@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-09-28
-- Commit: 187/256
-- Module: test(unit): expand test coverage for bounding box expansion and clamp limits
+- Commit: 188/256
+- Module: feat(economics): compute mathematical token reduction against uncropped baselines
