@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-10-12
-- Commit: 18/220
-- Module: test(runner): verify responsive full-page viewport capture
+- Commit: 19/220
+- Module: feat(parser): add AST quote sanitization and code fence handling
