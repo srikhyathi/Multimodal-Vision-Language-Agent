@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-10-18
-- Commit: 216/217
-- Module: feat(parser): add AST quote sanitization and code fence handling
+- Commit: 217/217
+- Module: fix(security): prevent path traversal and null byte injections in css patcher
