@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-10-22
-- Commit: 72/236
-- Module: perf(optimizer): improve sub-viewport bounding box calculation latency
+- Commit: 73/236
+- Module: feat(browser): scaffold headless playwright navigation manager
