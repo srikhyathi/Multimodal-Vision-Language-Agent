@@ -1,4 +1,4 @@
 # OmniSight Activity Log
 - Date: 2026-11-03
-- Commit: 213/251
-- Module: docs(architecture): document closed-loop multimodal agent design
+- Commit: 214/251
+- Module: feat(optimizer): implement sub-pixel coordinate bounding box validation
